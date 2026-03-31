@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built using **Next.js, React,
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/Personal.jpg)
+![Portfolio Preview](./public/Personal.png)
 
 ---
 
