@@ -101,6 +101,6 @@ Hi, I'm **Satyajit Pradhan** 👨‍💻
 
 ## 📬 Contact
 
-- 📧 Email: pradhansatyajit182@example.com  
+- 📧 Email: pradhansatyajit182@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/satyajit-pradhan-06093525b/
 - 💻 GitHub: https://github.com/Satyajit7822
