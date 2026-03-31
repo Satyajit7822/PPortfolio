@@ -64,7 +64,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3000](https://w9m7frw7-3000.inc1.devtunnels.ms/) in your browser.
 
 ---
 
