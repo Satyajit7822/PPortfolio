@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built using **Next.js, React,
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/Satyajit.jpg)
+![Portfolio Preview](./public/Personal.jpg)
 
 ---
 
@@ -69,10 +69,38 @@ git clone https://github.com/Satyajit7822/PPortfolio
 
 ```
 
-### Navigate to project
+Navigate to project
 ```bash
 cd your-repo-name
 
 ```
 
-### Install dependencies
+Install dependencies
+```bash
+npm install
+
+```
+
+Run the project
+```bash
+npm run dev
+
+```
+
+---
+
+## 🙋‍♂️ About Me
+
+Hi, I'm **Satyajit Pradhan** 👨‍💻  
+
+- 🎓 B.Tech Student  
+- 💡 Web Developer  
+- 🚀 Interested in Full Stack Development  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: pradhansatyajit182@example.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/satyajit-pradhan-06093525b/
+- 💻 GitHub: https://github.com/Satyajit7822
